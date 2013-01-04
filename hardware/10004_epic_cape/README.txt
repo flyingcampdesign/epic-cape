@@ -9,6 +9,7 @@ Eagle Zip Release
     * Change "Output Format" to "CSV"
     * "Save" as <proj name>.csv
     * Use Excel to convert to <proj name>.xlsx
+* Update README_PCB.txt
 * Execute "make eagle"
 
 Fab Zip Release
