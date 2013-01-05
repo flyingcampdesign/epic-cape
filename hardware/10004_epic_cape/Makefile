@@ -2,7 +2,7 @@ PROJ=10004_epic_cape
 REV=1.1.1
 RELEASE_DIR=../release
 
-.PHONY : eagle fab all tidy tidyart tidyall cleanart cleanplace cleanzip cleandirs cleanup clean
+.PHONY: all eagle fab batchpcb clean cleanall cleanup tidyall tidy tidyart cleansch cleanbom cleanart cleanplace cleanzip cleandirs
 
 all: eagle fab batchpcb
 
