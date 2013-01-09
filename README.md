@@ -1,5 +1,4 @@
-Epic Cape
-=========
+*STATUS:* The initial prototype PCB for this cape is currently being manufactured.  Check out <http://twitter.com/FlyingCamp> for updates on bring-up and test.
 
 The Epic Cape is a cape for the BeagleBone that adds an 802.15.4 wireless mesh networking interface.  
 
