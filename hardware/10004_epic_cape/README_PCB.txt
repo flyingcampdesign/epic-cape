@@ -13,8 +13,10 @@ PCB PN: 10004
 REVISION: 1.1.1
 DATE: 1/4/2012 (MM/DD/YYYY)
 
+(SPECS BELOW MATCH 66EACH.COM PROCESS)
+
 LAYERS: 4
-MATERIAL: ISOLA FR406 (DK=4.29, DF=0.014)
+MATERIAL: ISOLA FR402 (DK=4.25, DF=0.015)
 FINISH THICKNESS: 0.062"
 OUTER COPPER WEIGHT: 1 OZ
 INNER COPPER WEIGHT: 1 OZ
@@ -35,11 +37,11 @@ FAB NOTES:
 --- PCB STACKUP ---
 
 ---------- LAYER 1 TOP -------- 1.35 MIL (1 OZ)
-~~~~~~~~~~ PREPREG ~~~~~~~~~~~~ 9.8 MIL
+~~~~~~~~~~ PREPREG ~~~~~~~~~~~~ 9.18 MIL
 ---------- LAYER 2 GND -------- 1.35 MIL (1 OZ)
-========== CORE =============== 39 MIL
+========== CORE =============== 40 MIL
 ---------- LAYER 3 PWR -------- 1.35 MIL (1 OZ)
-~~~~~~~~~~ PREPREG ~~~~~~~~~~~~ 9.8 MIL
+~~~~~~~~~~ PREPREG ~~~~~~~~~~~~ 9.18 MIL
 ---------- LAYER 4 BOTTOM ----- 1.35 MIL (1 OZ)
 
 --- PCB PHOTOPLOT FILES ---
